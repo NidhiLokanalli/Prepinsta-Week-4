@@ -1,5 +1,4 @@
-# World Bank Data Visualization Project
-https://github.com/rupakbera21/World-Bank-Data/assets/154492310/3b2043d3-a5ec-4931-b48d-9b7cf17dd88b
+# World Bank Data Visualization Projec
 
 ## Objective
 
